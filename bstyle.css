@@ -1,0 +1,104 @@
+body {
+  padding: 130px 300px;
+  font-family: "Nanum Gothic Coding", monospace;
+  background-color: #d7d7d7;
+}
+
+table {
+  width: 46em;
+  padding-top: 1em;
+}
+
+td {
+  border: 1px;
+}
+.write {
+  background-color: rgb(123, 131, 168);
+  font-family: "Nanum Gothic Coding", monospace;
+  border: 1px solid black;
+}
+
+.list {
+  background-color: rgb(123, 131, 168);
+  font-family: "Nanum Gothic Coding", monospace;
+}
+
+.title {
+  text-align: center;
+}
+
+.t1 {
+  border-right: 1px solid;
+}
+
+.t2 {
+  width: 100%;
+  border: 0;
+  background-color: #d7d7d7;
+  resize: none;
+  text-align: center;
+}
+
+td input:focus,
+textarea:focus {
+  outline: none;
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px #d7d7d7 inset;
+}
+
+.btn {
+  border-style: none;
+}
+
+.btn1 {
+  background-color: rgb(201, 199, 209);
+  border-width: 1px;
+  border-radius: 3px;
+  font-size: 15px;
+  float: right;
+  margin-left: 3px;
+}
+
+.btn1:hover {
+  color: rgb(32, 43, 78);
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  line-height: 24px;
+  margin-top: 10px;
+}
+
+table td,
+th {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(32, 43, 78);
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.box:hover {
+  background-color: rgb(196, 196, 209);
+}
+
+.a {
+  float: right;
+  margin-bottom: 5px;
+}
