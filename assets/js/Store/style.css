@@ -1,0 +1,16 @@
+p {
+  font-size: 1.3rem;
+  color: #eceaea;
+}
+span {
+  font-size: 0.8rem;
+  color: red;
+}
+body {
+  color: #eceaea;
+  font-size: 1.8rem;
+}
+html {
+  padding-left: 3rem;
+  background-color: #4c4d56;
+}
